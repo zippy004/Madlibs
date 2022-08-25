@@ -1,0 +1,13 @@
+colour = input("colour :")
+clothe  = input("clothe :")
+pronoun = input("pyonoun :")
+object = input("object :")
+ocean = input("ocean:")
+verb = input("verb :")
+body_organ = input("body_organ :")
+name_person = input("name_person :")
+
+madlib = f"{colour} are for roses but when you {clothe} in it, {pronoun} glow and almost burn my {object}. lets just say the Israelites at the {ocean} were better of to read than to
+[verb} how you capture my {body_organ} is still a mystery to me oh my dear {name_person}."
+
+print(madlib)
